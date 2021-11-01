@@ -1,0 +1,9 @@
+#myCanvas{
+    background-image: url("background.jpg");
+    background-size: cover;
+}
+h2{
+	border-radius: 10px;
+	width: 200px;
+	padding: 5px;
+ }
